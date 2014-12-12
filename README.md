@@ -1,4 +1,4 @@
-Rice-Rocks
+Week-8-Rice-Rocks
 ==========
 
 This is my final project of the Coursera Python programming class 
